@@ -14,7 +14,7 @@ def link
 
 end
 
-def any_phrase
-  
+def any_phrase()
+
 
 end
