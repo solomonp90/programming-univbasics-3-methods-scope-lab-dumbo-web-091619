@@ -18,4 +18,4 @@ def any_phrase(phrase)
   print "#{phrase}"
 
 end
-any_phrase(phrase);
+any_phrase();
