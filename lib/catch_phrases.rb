@@ -15,6 +15,7 @@ def link
 end
 
 def any_phrase(phrase)
-  print 
+  print "#{phrase}"
 
 end
+any_phrase(phrase);
